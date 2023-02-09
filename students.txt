@@ -1,0 +1,28 @@
+Julius Dichter 
+Senior 
+CPSC 
+8 
+Rose Montaque 
+Freshman 
+MATH 
+2 
+Tom Smith 
+Sophomore 
+EDUC 
+3 
+Joe Boss 
+Freshman 
+CPSC 
+1 
+Carlos Lara
+Freshman 
+CPSC 
+2
+Ling Wen 
+Sophomore 
+MATH 
+4 
+Malique Montaque 
+Freshman 
+CPSC 
+2
